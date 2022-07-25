@@ -10,10 +10,10 @@ function initAuth() {
      "VV_CLIENT_ID": 'LhZUN78Yupl55A_-',
      "VV_CALLBACK_URI": 'https://vaultvisiontester.bubbleapps.io/version-test/oidc_callback',
      "VV_POST_LOGOUT_URI": 'https://vaultvisiontester.bubbleapps.io/version-test',
-     "SIGNIN_PAGE": "version-test/signin",
-     "SIGNUP_PAGE": "version-test/signup",
-     "LOGOUT_PAGE": "version-test/logout",
-     "PROFILE_PAGE": "version-test/profile",
+     "SIGNIN_PAGE": "/version-test/signin",
+     "SIGNUP_PAGE": "/version-test/signup",
+     "LOGOUT_PAGE": "/version-test/logout",
+     "PROFILE_PAGE": "/version-test/profile",
     }
   };
 
